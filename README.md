@@ -4,7 +4,8 @@ You probably want to attach more addional links to this repository? Kindly fork 
 
 **FREE**
 
-- [**Spatial Thoughts**](https://courses.spatialthoughts.com/index.html) : Open course from Ujaval Gandhi
+- [**Spatial Data Science with R**](https://www.rspatial.org/index.html) (rspatial.org) : spatial data analysis and modeling with R
+- [**Spatial Thoughts**](https://courses.spatialthoughts.com/index.html) : open course from Ujaval Gandhi
 - [**OpenSourceOptions**](https://opensourceoptions.com/tutorials/) : Python and PyQGIS tutorials
 
 **DISCUSSION FORUMS AND GROUPS**
