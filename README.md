@@ -1,5 +1,7 @@
 # Spatial Data Science Links
 
+This included links to online materials and forums where you can find the answer of questions and curiousity about working on **spatial data analysis** using popular free and open applications, both sources or licenses, such as R, Python, and QGIS.
+
 You probably want to attach more addional links to this repository? Kindly fork and pull request.
 
 **FREE COURSES and TUTORIALS**
