@@ -15,10 +15,10 @@ This repository included links to online materials and forums where you can find
 
 **Spatial data science**, as defined by [Carto](https://carto.com/what-is-spatial-data-science/), is a subset of Data Science that focuses on the unique characteristics of spatial data, moving beyond simply looking at where things happen to understand why they happen there.
 
-Skillset, tools, and technology behind spatial data science
+Skillset, tools, and technology behind spatial data science:
 
 ![carto-sds-skillset](https://carto.com/img/definitions/spatial-analysis-languages.2906f68c.png)
-
+credit: Carto
 
 ## Tutorial and Course
 
