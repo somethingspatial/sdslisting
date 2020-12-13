@@ -24,7 +24,7 @@ Skillset, tools, and technology behind spatial data science (image credited to C
 
 - [**Spatial Thoughts**](https://courses.spatialthoughts.com/index.html) : open course from Ujaval Gandhi
 - [**OpenSourceOptions**](https://opensourceoptions.com/tutorials/) : Python and PyQGIS tutorials
-- [Spatial Data Science: The New Frontier in Analytics](www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/) by ESRI
+- [**Spatial Data Science: The New Frontier in Analytics**](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/) by ESRI
 
 
 ## Workshop and Lecturer
